@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Mario Summ",
+        "username": "mariosumm",
+        "email": "mariosumm@gmail.com",
+        "address": {
+            "street": "Kahilakon",
+            "barangay": "Himi",
+            "city": "Crying Buds"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Emily Laff",
+        "username": "emilylaff",
+        "email": "emilylaff@gmail.com",
+        "address": {
+            "street": "Muboon",
+            "barangay": "Putot",
+            "city": "Giants"
+        }
+    },
+    {
+        "id": 3,
+        "name": "jake",
+        "username": "jake",
+        "email": "jake",
+        "address": {
+            "street": "El salvador",
+            "barangay": "Polo",
+            "city": "Dapitan"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Jeth",
+        "username": "Omictin",
+        "email": "jethOmictin@gmail",
+        "address": {
+            "street": "Tres",
+            "barangay": "Labangon",
+            "city": "Cebu"
+        }
+    },
+    {
+        "id": 5,
+        "name": "kuugang",
+        "username": "kuugang",
+        "email": "kuugang",
+        "address": {
+            "street": "kuugang",
+            "barangay": "kuugang",
+            "city": "kuugang"
+        }
+    }
+]
